@@ -1,0 +1,5 @@
+requests==2.26.0
+python-dotenv==0.19.1
+konlpy==0.5.2
+dateparser==1.0.0
+korean-romanizer==0.1.0
