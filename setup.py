@@ -4,8 +4,7 @@ setup(
     name="weather_package",
     version="0.1.1",
     description="A package to query weather based on location and date.",
-    author="채드",
-    author_email="myemail@example.com",
+    author="그리천",
     packages=find_packages(),  # Automatically finds packages in the directory
     install_requires=[
         "requests",
